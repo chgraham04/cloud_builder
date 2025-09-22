@@ -24,6 +24,7 @@ Resistance points. These points may affect you differently between different rou
   3, you will not draw a Nucleus or a Moisture card.
 
 ## Types of Decks and their Cards
+### Note: All decks contain 4 of each card
 - _**Condensation Nuclei**_
   - Sea Salt | + 1 Strength in R1
   - Dust | +0
