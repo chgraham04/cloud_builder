@@ -167,3 +167,8 @@ DeckType Game::promptDeckChoiceForLifeline(const std::map<DeckType, Card>&, Roun
 void Game::printDrawn(const std::map<DeckType, Card>& drawn, RoundId roundId, const RoundResult& r) const {
     std::cout << "Round draws applied. CS=" << r.cloudStrength << ", RES=" << r.resistance << "\n";
 }
+
+// TODO: Implement more user interaction during rounds
+// TODO: make sure user is able to choose to Lifeline
+// TODO: spell out cloud strength and resistance instead of CS and RES
+// TODO: add help button which displays game rules to user
